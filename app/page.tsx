@@ -31,6 +31,7 @@ export default function Home() {
         </div>
       </div>
       <h2> Hello from Amir</h2>
+      <p>First NextApp </p> 
       <div className={styles.center}>
         <Image
           className={styles.logo}
