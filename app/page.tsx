@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Let Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
         <div>
@@ -30,7 +30,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-
+      <h2> Hello from Amir</h2>
       <div className={styles.center}>
         <Image
           className={styles.logo}
